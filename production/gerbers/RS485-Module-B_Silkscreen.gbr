@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2023-04-09T11:27:42-07:00*%
+%TF.ProjectId,RS485-Module,52533438-352d-44d6-9f64-756c652e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-04-09 11:27:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.508000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,P4*%
+X186309000Y-109601000D02*
+G75*
+G03*
+X186309000Y-109601000I-381000J0D01*
+G01*
+%TD*%
+M02*
