@@ -205,8 +205,8 @@
       )
     )
   )
-  (model "/home/olsport/Documents/SDR/PCB/L0002-Liquids-Engine-Controller/CAD/3Dfiles/5015680807.stp"
-    (offset (xyz 0 0 1.5))
+  (model "/home/olsport/Documents/SDR/PCB/RS485-Module/CAD/3Dfiles/5015680807.stp"
+    (offset (xyz 0 -0.254 1.7272))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
   )
